@@ -1,7 +1,7 @@
 A simple HTML application for creating random shapes.
 
 ## You can try the application online here:
-[Open Shape Generator](ТВОЯ_ССЫЛКА_GITHUB_PAGES)
+[Open Shape Generator](https://romahypax.github.io/blob-shape-generator/)
 
 ## Preview
 
